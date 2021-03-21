@@ -185,3 +185,134 @@ App
 1min
 
 
+
+Section 5: Working with Express.js
+20 / 22|1hr 34min
+
+57. Module Introduction
+2min
+
+58. What is Express.js?
+4min
+
+59. Installing Express.js
+4min
+
+60. Adding Middleware
+5min
+
+61. How Middleware Works
+3min
+
+62. Express.js - Looking Behind the Scenes
+4min
+
+63. Handling Different Routes
+5min
+
+Progress cannot be changed for this item
+Assignment 2: Time to Practice - Express.js
+
+64. Parsing Incoming Requests
+8min
+
+65. Limiting Middleware Execution to POST Requests
+2min
+
+66. Using Express Router
+8min
+
+67. Adding a 404 Error Page
+3min
+
+68. Filtering Paths
+4min
+
+69. Creating HTML Pages
+5min
+
+70. Serving HTML Pages
+7min
+
+71. Returning a 404 Page
+2min
+
+72. Using a Helper Function for Navigation
+4min
+
+73. Styling our Pages
+14min
+
+74. Serving Files Statically
+8min
+
+Progress cannot be changed for this item
+Assignment 3: Time to Practice - Navigation
+
+75. Wrap Up
+4min
+
+76. Useful Resources & Links
+1min
+Section 6: Working with Dynamic Content & Adding
+Templating Engines
+15 / 19|2hr 3min
+
+77. Module Introduction
+3min
+
+78. Sharing Data Across Requests & Users
+8min
+
+79. Templating Engines - An Overview
+5min
+
+80. Installing & Implementing Pug
+11min
+
+81. Outputting Dynamic Content
+11min
+
+82. Official Pug Docs
+1min
+
+83. Converting HTML Files to Pug
+6min
+
+84. Adding a Layout
+6min
+
+85. Finishing the Pug Template
+6min
+
+86. Avoiding an Error
+1min
+
+87. Working with Handlebars
+5min
+
+88. Converting our Project to Handlebars
+8min
+
+89. Adding the Layout to Handlebars
+9min
+
+90. Working with EJS
+8min
+
+91. Working on the Layout with Partials
+10min
+
+92. Wrap Up
+4min
+
+Progress cannot be changed for this item
+Assignment 4: Time to Practice - Templating Engines
+
+93. [OPTIONAL] Assignment Solution
+25min
+
+94. Useful Resources & Links
+1min
+
+
