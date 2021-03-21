@@ -134,3 +134,54 @@ Assignment 1: Time to Practice - The Basics
 40. Useful Resources & Links
 1min
 
+
+
+
+Section 4: Improved Development Workflow and
+Debugging
+16 / 16|48min
+
+41. Module Introduction
+1min
+
+42. Understanding NPM Scripts
+7min
+
+43. Installing 3rd Party Packages
+8min
+
+44. Global Features vs Core Modules vs Third-Party Modules
+1min
+
+45. Using Nodemon for Autorestarts
+2min
+
+46. Global & Local npm Packages
+1min
+
+47. Understanding different Error Types
+2min
+
+48. Finding & Fixing Syntax Errors
+3min
+
+49. Dealing with Runtime Errors
+3min
+
+50. Logical Errors
+7min
+
+51. Using the Debugger
+3min
+
+52. Restarting the Debugger Automatically After Editing our
+App
+6min
+
+53. Debugging Node.js in Visual Studio Code
+1min
+
+54. Changing Variables in the Debug Console
+1min
+
+
