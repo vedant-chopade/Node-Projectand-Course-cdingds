@@ -321,3 +321,38 @@ Assignment 4: Time to Practice - Templating Engines
 1min
 
 
+
+Section 7: The Model View Controller (MVC)
+10 / 10|44min
+
+
+
+95. Module Introduction
+1min
+
+96. What is the MVC?
+3min
+
+97. Adding Controllers
+9min
+
+98. Finishing the Controllers
+3min
+
+99. Adding a Product Model
+8min
+
+100. Storing Data in Files Via the Model
+10min
+
+101. Fetching Data from Files Via the Model
+4min
+
+102. Refactoring the File Storage Code
+4min
+
+103. Wrap Up
+2min
+
+104. Useful Resources & Links
+1min
