@@ -254,9 +254,14 @@ Assignment 3: Time to Practice - Navigation
 
 76. Useful Resources & Links
 1min
+
+
+
 Section 6: Working with Dynamic Content & Adding
 Templating Engines
 15 / 19|2hr 3min
+
+
 
 77. Module Introduction
 3min
