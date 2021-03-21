@@ -71,3 +71,66 @@ Section 2: Optional: JavaScript - A Quick Refresher
 
 23. Useful Resources & Links ......done
 1min
+
+
+
+
+Section 3: Understanding the Basics
+16 / 18|1hr 33min
+
+
+
+24. Module Introduction
+2min
+
+25. How The Web Works
+4min
+
+26. Creating a Node Server
+13min
+
+27. The Node Lifecycle & Event Loop
+5min
+
+28. Controlling the Node.js Process
+1min
+
+29. Understanding Requests
+3min
+
+30. Sending Responses
+6min
+
+31. Request & Response Headers
+1min
+
+32. Routing Requests
+6min
+
+33. Redirecting Requests
+4min
+
+34. Parsing Request Bodies
+11min
+
+35. Understanding Event Driven Code Execution
+6min
+
+36. Blocking and Non-Blocking Code
+5min
+
+37. Node.js - Looking Behind the Scenes
+12min
+
+38. Using the Node Modules System
+10min
+
+39. Wrap Up
+5min
+
+Progress cannot be changed for this item
+Assignment 1: Time to Practice - The Basics
+
+40. Useful Resources & Links
+1min
+
