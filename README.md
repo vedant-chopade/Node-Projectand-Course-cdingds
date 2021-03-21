@@ -1,4 +1,4 @@
-Section 2: Optional: JavaScript - A Quick Refresher
+
 1. Introduction
 2min
 
@@ -25,6 +25,10 @@ https://developer.mozilla.org/en-US/docs/Learn/JavaScript
 
 9. Using the Attached Source Code
 1min
+
+
+
+Section 2: Optional: JavaScript - A Quick Refresher
 
 10. Module Introduction
 2min
